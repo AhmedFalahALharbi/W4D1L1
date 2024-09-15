@@ -1,0 +1,8 @@
+.box {
+    display: flex;
+    justify-content: center;
+    height: 30%;
+    width: 40%;
+    background-color: skyblue;
+    border-radius: 20px;
+}
